@@ -1,0 +1,3 @@
+D:/Devon C Tutorials/projects/EsoLang-GORBITSA/build/CMakeFiles/quantum.dir
+D:/Devon C Tutorials/projects/EsoLang-GORBITSA/build/CMakeFiles/edit_cache.dir
+D:/Devon C Tutorials/projects/EsoLang-GORBITSA/build/CMakeFiles/rebuild_cache.dir
